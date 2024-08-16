@@ -250,7 +250,8 @@
 				"storage.type.string.python",			// f or any other letter before string
 				"constant.character.escape.python", // \n,\r etc.
 				"string.regexp",										// String filtering, Commonly used with 're' module
-
+				"support.type.property-name.json",
+				
 			],
 			"settings": {
 				"foreground": "#AFD5FB" // String
